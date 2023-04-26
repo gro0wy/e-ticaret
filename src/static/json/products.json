@@ -1,0 +1,198 @@
+{
+  "data": {
+    "products": [
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 0,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 200,
+        "sku": 8552515751438644,
+        "style": "Beyaz T-shirt",
+        "title": "Kelebek Baskili Crop T-Shirt"
+      },
+      {
+        "availableSizes": ["X", "ML", "L"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 11,
+        "installments": 3,
+        "isFreeShipping": true,
+        "price": 265,
+        "sku": 39876704341265610,
+        "style": "Slim-Fit",
+        "title": "Basic Kaktus Beyaz T-Shirt"
+      },
+      {
+        "availableSizes": ["XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 4,
+        "installments": 12,
+        "isFreeShipping": false,
+        "price": 350,
+        "sku": 9197907543445676,
+        "style": "Sweatshirt",
+        "title": "Skater Siyah Sweatshirt"
+      },
+      {
+        "availableSizes": ["M", "ML"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 13,
+        "installments": 5,
+        "isFreeShipping": true,
+        "price": 399.99,
+        "sku": 51498472915966370,
+        "style": "Tule",
+        "title": "Oversize Siyah Tul"
+      },
+      {
+        "availableSizes": ["S", "XS"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 12,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 199.99,
+        "sku": 12064273040195392,
+        "style": "T-shirt",
+        "title": "Siyah Batman T-shirt"
+      },
+      {
+        "availableSizes": ["X", "L", "XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 14,
+        "installments": 3,
+        "isFreeShipping": true,
+        "price": 180,
+        "sku": 10686354557628304,
+        "style": "T-Shirt",
+        "title": "Mavi T-Shirt"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 15,
+        "installments": 5,
+        "isFreeShipping": true,
+        "price": 349.99,
+        "sku": 11033926921508488,
+        "style": "Kolsuz T-Shirt",
+        "title": "Kolsuz Siyah T-shirt"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 1,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 230,
+        "sku": 18644119330491310,
+        "style": "T-shirt",
+        "title": "Beyaz T-Shirt"
+      },
+      {
+        "availableSizes": ["X", "L"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 2,
+        "installments": 7,
+        "isFreeShipping": true,
+        "price": 349.99,
+        "sku": 11854078013954528,
+        "style": "T-Shirt",
+        "title": "Gri T-shirt"
+      },
+      {
+        "availableSizes": ["X", "L"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 3,
+        "installments": 7,
+        "isFreeShipping": true,
+        "price": 525,
+        "sku": 876661122392077,
+        "style": "Adidas T-Shirt",
+        "title": "Beyaz Cizgili Siyah T-shirt"
+      },
+      {
+        "availableSizes": ["X", "L", "XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 5,
+        "installments": 9,
+        "isFreeShipping": false,
+        "price": 199.99,
+        "sku": 10547961582846888,
+        "style": "T-Shirt",
+        "title": "Ninja Kablumbaglar T-shirt"
+      },
+      {
+        "availableSizes": ["XL", "XXL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 6,
+        "installments": 0,
+        "isFreeShipping": true,
+        "price": 499.99,
+        "sku": 6090484789343891,
+        "style": "T-Shirt",
+        "title": "Slim-fit Siyah T-shirt"
+      },
+      {
+        "availableSizes": ["S"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 7,
+        "installments": 4,
+        "isFreeShipping": true,
+        "price": 650,
+        "sku": 18532669286405344,
+        "style": "Sweatshirt",
+        "title": "Mavi Sweatshirt"
+      },
+      {
+        "availableSizes": ["XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 8,
+        "installments": 4,
+        "isFreeShipping": false,
+        "price": 899.99,
+        "sku": 5619496040738316,
+        "style": "T-Shirt",
+        "title": "Beyaz Gucci T-shirt"
+      },
+      {
+        "availableSizes": ["L", "XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 9,
+        "installments": 5,
+        "isFreeShipping": true,
+        "price": 134.99,
+        "sku": 11600983276356164,
+        "style": "T-Shirt",
+        "title": "Tropikal Baskili T-shirt"
+      },
+      {
+        "availableSizes": ["L", "XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 10,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 999.99,
+        "sku": 27250082398145996,
+        "style": "",
+        "title": "Tommy-Hilfiger Mavi T-shirt"
+      }
+    ]
+  }
+}
