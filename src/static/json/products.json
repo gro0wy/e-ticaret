@@ -192,6 +192,18 @@
         "sku": 27250082398145996,
         "style": "",
         "title": "Tommy-Hilfiger Mavi T-shirt"
+      },
+      {
+        "availableSizes": ["L", "XL"],
+        "currencyFormat": "₺",
+        "currencyId": "TL",
+        "id": 10,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 999.99,
+        "sku": 27250082398145996,
+        "style": "",
+        "title": "Tommy-Hilfiger Mavi T-shirt"
       }
     ]
   }
